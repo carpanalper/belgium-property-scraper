@@ -7,7 +7,7 @@ def main():
     url_finder = belgium_property_url_finder()
     
     # Get a list of property URLs
-    number_of_pages = 2  # Adjust the number of pages as needed
+    number_of_pages = 80  # Adjust the number of pages as needed
     list_of_urls = url_finder.get_all_urls(number_of_pages)
 
     # Instantiate the PropertyScraper
