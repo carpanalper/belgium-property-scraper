@@ -27,5 +27,6 @@ This Python project scrapes real estate property listings from Immoweb for vario
 
 
 ## Contributors
-- John Doe (@johndoe): Project lead
-- Jane Smith (@janesmith): Data analysis
+- Zaidoon Alobaidi
+- Mathieu Lecouvet 
+- Alper Carpan 
