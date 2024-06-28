@@ -6,7 +6,7 @@ This Python project scrapes real estate property listings from Immoweb for vario
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/belgium-property-scraper.git
+   git clone https://github.com/carpanalper/belgium-property-scraper.git
    ```
 2. Navigate into the project directory:
    ```
@@ -18,7 +18,7 @@ This Python project scrapes real estate property listings from Immoweb for vario
    ```
 
 ## Usage
-1. Modify `main.py` to customize the number of pages to scrape per province and other parameters as needed. As default ...
+1. Modify `main.py` to customize the number of pages to scrape per province and other parameters as needed. The default is 80 and it scraps between 12.000-14.000 titles.
 2. Run the main script to start scraping:
    ```
    python main.py
